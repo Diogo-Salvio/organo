@@ -18,7 +18,7 @@ function App() {
     {
       nome: 'Programação',
       corPrimaria: '#57c278',
-      corSecundaria: '#d9f7e9;'
+      corSecundaria: '#e2e2e2'
     },
     {
       nome: 'Front-end',
